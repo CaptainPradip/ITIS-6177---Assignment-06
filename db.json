@@ -1,0 +1,19 @@
+{
+    "posts": [
+      {
+        "title": "Javascript",
+        "author": "Pradip Nemane",
+        "id": 1
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "comments 1234",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
